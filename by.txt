@@ -3,3 +3,4 @@ this my new changes
 My bio is added
 My ssc info is added
 My hsc info is added
+master info is added
