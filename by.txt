@@ -1,2 +1,3 @@
 git status
 this my new changes
+My bio is added
