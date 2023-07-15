@@ -1,3 +1,4 @@
 git status
 this my new changes
 My bio is added
+My ssc info is added
